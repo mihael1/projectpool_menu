@@ -1,0 +1,27 @@
+.menu {
+    width: 750px;
+    height: 750px;
+}
+
+polygon {
+    transition: all 0.5s;
+}
+
+.moveFirst {
+    transform: translate(70px, 10px) rotate(45deg);
+}
+.moveCss{
+    transform: translate(130px, 10px) rotate(60deg);
+}
+
+.moveHtml{
+    transform: translate(190px, 10px) rotate(60deg);
+}
+
+.moveKnow{
+    transform: translate(250px, 10px) rotate(60deg);
+}
+
+.movePipe{
+    transform: translate(310px, 10px) rotate(60deg);
+}
